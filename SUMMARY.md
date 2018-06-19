@@ -35,6 +35,7 @@
   * [261. Graph Valid Tree](10.union-find/261.-graph-valid-tree.md)
 * [11.Binary Search](11.binary-search/README.md)
   * [模板](11.binary-search/mo-ban.md)
+  * [35. Search Insert Position](11.binary-search/35.-search-insert-position.md)
   * [69. Sqrt\(x\)](11.binary-search/69.-sqrt-x.md)
   * [double sqrt\(x\)](11.binary-search/double-sqrt-x.md)
 * [12.Graph](12.graph/README.md)
