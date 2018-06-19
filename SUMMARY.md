@@ -10,6 +10,7 @@
   * [207. Course Schedule](dfs/207.-course-schedule.md)
   * [236. Lowest Common Ancestor of a Binary Tree](dfs/236.-lowest-common-ancestor-of-a-binary-tree.md)
   * [675. Cut Off Trees for Golf Event](dfs/675.-cut-off-trees-for-golf-event.md)
+  * [787. Cheapest Flights Within K Stops](dfs/787.-cheapest-flights-within-k-stops.md)
 * [3.Stack](3.stack/README.md)
   * [42. Trapping Rain Water](3.stack/42.-trapping-rain-water.md)
   * [84. Largest Rectangle in Histogram](3.stack/largest-rectangle-in-histogram.md)
