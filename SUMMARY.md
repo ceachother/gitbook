@@ -6,6 +6,7 @@
 * [2.BFS/DFS](dfs/README.md)
   * [78. Subsets](dfs/subsets.md)
   * [37. Sudoku Solver](dfs/37.-sudoku-solver.md)
+  * [100. Same Tree](dfs/100.-same-tree.md)
   * [117. Populating Next Right Pointers in Each Node II](dfs/117.-populating-next-right-pointers-in-each-node-ii.md)
   * [207. Course Schedule](dfs/207.-course-schedule.md)
   * [236. Lowest Common Ancestor of a Binary Tree](dfs/236.-lowest-common-ancestor-of-a-binary-tree.md)
