@@ -33,6 +33,8 @@
 * [9.DP](dp/README.md)
   * [139. Word Break](dp/139.-word-break.md)
   * [322. Coin Change](dp/322.-coin-change.md)
+  * [361. Bomb Enemy](dp/361.-bomb-enemy.md)
+  * [418. Sentence Screen Fitting](dp/418.-sentence-screen-fitting.md)
 * [10.Union Find](10.union-find/README.md)
   * [261. Graph Valid Tree](10.union-find/261.-graph-valid-tree.md)
 * [11.Binary Search](11.binary-search/README.md)
