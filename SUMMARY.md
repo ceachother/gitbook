@@ -6,8 +6,8 @@
 * [2.BFS/DFS](dfs/README.md)
   * [22. Generate Parentheses](dfs/22.-generate-parentheses.md)
   * [37. Sudoku Solver](dfs/37.-sudoku-solver.md)
-  * [100. Same Tree](dfs/100.-same-tree.md)
   * [78. Subsets](dfs/subsets.md)
+  * [100. Same Tree](dfs/100.-same-tree.md)
   * [117. Populating Next Right Pointers in Each Node II](dfs/117.-populating-next-right-pointers-in-each-node-ii.md)
   * [207. Course Schedule](dfs/207.-course-schedule.md)
   * [236. Lowest Common Ancestor of a Binary Tree](dfs/236.-lowest-common-ancestor-of-a-binary-tree.md)
@@ -54,4 +54,6 @@
   * [200. Number of Islands](13.queue/200.-number-of-islands.md)
 * [14.Sort](14.sort/README.md)
   * [324. Wiggle Sort II](14.sort/324.-wiggle-sort-ii.md)
+* [15.Trie](15.trie/README.md)
+  * [425. Word Squares](15.trie/425.-word-squares.md)
 

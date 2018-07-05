@@ -25,7 +25,7 @@
 
 ## Solution: DFS & Backtracking
 
-```text
+```java
 /**
   * DFS, backtracking
   */
