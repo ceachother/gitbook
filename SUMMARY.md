@@ -28,6 +28,7 @@
   * [Permutation](7.string/permutation.md)
   * [76. Minimum Window Substring](7.string/76.-minimum-window-substring.md)
   * [340. Longest Substring with At Most K Distinct Characters](7.string/340.-longest-substring-with-at-most-k-distinct-characters.md)
+  * [482. License Key Formatting](7.string/482.-license-key-formatting.md)
 * [8.Hash Table](8.hash-table/README.md)
   * [49. Group Anagrams](8.hash-table/49.-group-anagrams.md)
   * [149. Max Points on a Line](8.hash-table/149.-max-points-on-a-line.md)
