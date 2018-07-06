@@ -53,6 +53,7 @@
 * [13.Queue](13.queue/README.md)
   * [200. Number of Islands](13.queue/200.-number-of-islands.md)
 * [14.Sort](14.sort/README.md)
+  * [280. Wiggle Sort](14.sort/280.-wiggle-sort.md)
   * [324. Wiggle Sort II](14.sort/324.-wiggle-sort-ii.md)
 * [15.Trie](15.trie/README.md)
   * [425. Word Squares](15.trie/425.-word-squares.md)
