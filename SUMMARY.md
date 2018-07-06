@@ -3,6 +3,7 @@
 * [Algorithm](README.md)
 * [1.2sum, 3sum](1.-2-sum-3-sum/README.md)
   * [15. 3 sum](1.-2-sum-3-sum/3-sum.md)
+  * [259. 3Sum Smaller](1.-2-sum-3-sum/259.-3sum-smaller.md)
 * [2.BFS/DFS](dfs/README.md)
   * [22. Generate Parentheses](dfs/22.-generate-parentheses.md)
   * [37. Sudoku Solver](dfs/37.-sudoku-solver.md)
