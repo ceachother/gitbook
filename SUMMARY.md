@@ -42,6 +42,7 @@
   * [322. Coin Change](dp/322.-coin-change.md)
   * [361. Bomb Enemy](dp/361.-bomb-enemy.md)
   * [418. Sentence Screen Fitting](dp/418.-sentence-screen-fitting.md)
+  * [568. Maximum Vacation Days](dp/568.-maximum-vacation-days.md)
 * [10.Union Find](10.union-find/README.md)
   * [261. Graph Valid Tree](10.union-find/261.-graph-valid-tree.md)
   * [737. Sentence Similarity II](10.union-find/737.-sentence-similarity-ii.md)
