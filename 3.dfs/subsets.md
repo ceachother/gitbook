@@ -68,5 +68,7 @@ It has n iteration in the dfs for loop, for every iteration, it has f\(n-1\) + f
 
 so the time complexity would be O\(n \* 2^n\)
 
+\(About why it is $$O(n * 2^n)$$ instead of $$O(2^n)$$, refer to this link [http://www.1point3acres.com/bbs/thread-117602-1-1.html](http://www.1point3acres.com/bbs/thread-117602-1-1.html)\)
+
 Another way to think is the array contains n numbers, each element will have two status: 0 and 1. 0 means it won't show up, 1 means it will. So it has in total 2^n combination\(eg. for {1,2,3}, it has 000,100,010,001,110,101,011,111\), for each combination, it will use O\(n\) to search.
 

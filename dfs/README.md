@@ -1,4 +1,4 @@
-# 2.BFS/DFS
+# 2.BFS
 
 {% page-ref page="../3.dfs/subsets.md" %}
 
