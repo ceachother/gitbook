@@ -1,4 +1,4 @@
-# 3.Stack
+# 4.Stack
 
 {% page-ref page="largest-rectangle-in-histogram.md" %}
 
