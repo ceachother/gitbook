@@ -17,6 +17,7 @@
   * [100. Same Tree](3.dfs/100.-same-tree.md)
   * [236. Lowest Common Ancestor of a Binary Tree](3.dfs/236.-lowest-common-ancestor-of-a-binary-tree.md)
   * [247. Strobogrammatic Number II](3.dfs/247.-strobogrammatic-number-ii.md)
+  * [294. Flip Game II](3.dfs/294.-flip-game-ii.md)
 * [4.Stack](3.stack/README.md)
   * [42. Trapping Rain Water](3.stack/42.-trapping-rain-water.md)
   * [84. Largest Rectangle in Histogram](3.stack/largest-rectangle-in-histogram.md)
