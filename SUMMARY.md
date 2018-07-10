@@ -40,6 +40,7 @@
   * [734. Sentence Similarity](8.hash-table/734.-sentence-similarity.md)
 * [9.DP](dp/README.md)
   * [139. Word Break](dp/139.-word-break.md)
+  * [276. Paint Fence](dp/276.-paint-fence.md)
   * [322. Coin Change](dp/322.-coin-change.md)
   * [361. Bomb Enemy](dp/361.-bomb-enemy.md)
   * [418. Sentence Screen Fitting](dp/418.-sentence-screen-fitting.md)
