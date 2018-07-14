@@ -47,6 +47,7 @@
   * [418. Sentence Screen Fitting](dp/418.-sentence-screen-fitting.md)
   * [471. Encode String with Shortest Length](dp/471.-encode-string-with-shortest-length.md)
   * [568. Maximum Vacation Days](dp/568.-maximum-vacation-days.md)
+  * [562. Longest Line of Consecutive One in Matrix](dp/562.-longest-line-of-consecutive-one-in-matrix.md)
 * [10.Union Find](10.union-find/README.md)
   * [261. Graph Valid Tree](10.union-find/261.-graph-valid-tree.md)
   * [737. Sentence Similarity II](10.union-find/737.-sentence-similarity-ii.md)
