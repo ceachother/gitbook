@@ -66,6 +66,7 @@
   * [253. Meeting Rooms II](13.queue/253.-meeting-rooms-ii.md)
 * [14.Sort](14.sort/README.md)
   * [252. Meeting Rooms](14.sort/252.-meeting-rooms.md)
+  * [274. H-Index](14.sort/274.-h-index.md)
   * [280. Wiggle Sort](14.sort/280.-wiggle-sort.md)
   * [324. Wiggle Sort II](14.sort/324.-wiggle-sort-ii.md)
 * [15.Trie](15.trie/README.md)
