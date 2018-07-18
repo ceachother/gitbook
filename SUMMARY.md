@@ -73,4 +73,6 @@
   * [425. Word Squares](15.trie/425.-word-squares.md)
 * [16.Divide and Conque](5.divide-and-conque/README.md)
   * [23. Merge k Sorted List](5.divide-and-conque/23.-merge-k-sorted-list.md)
+* [17.Bit manipulation](17.bit-manipulation/README.md)
+  * [231. Power of Two](17.bit-manipulation/231.-power-of-two.md)
 
