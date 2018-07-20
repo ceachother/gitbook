@@ -1,2 +1,4 @@
-# 16.Trie
+# 16.Tree
+
+Trie
 
