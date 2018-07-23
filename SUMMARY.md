@@ -86,4 +86,5 @@
   * [318. Maximum Product of Word Lengths](17.bit-manipulation/318.-maximum-product-of-word-lengths.md)
 * [19.Design](18.-design/README.md)
   * [284. Peeking Iterator](18.-design/284.-peeking-iterator.md)
+  * [380. Insert Delete GetRandom O\(1\)](18.-design/380.-insert-delete-getrandom-o-1.md)
 
