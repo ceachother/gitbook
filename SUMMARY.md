@@ -87,4 +87,7 @@
 * [19.Design](18.-design/README.md)
   * [284. Peeking Iterator](18.-design/284.-peeking-iterator.md)
   * [380. Insert Delete GetRandom O\(1\)](18.-design/380.-insert-delete-getrandom-o-1.md)
+* [20. Reservoir Sampling](20.-reservoir-sampling/README.md)
+  * [382. Linked List Random Node](20.-reservoir-sampling/382.-linked-list-random-node.md)
+  * [398. Random Pick Index](20.-reservoir-sampling/398.-random-pick-index.md)
 
