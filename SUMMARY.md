@@ -90,4 +90,6 @@
 * [20. Reservoir Sampling](20.-reservoir-sampling/README.md)
   * [382. Linked List Random Node](20.-reservoir-sampling/382.-linked-list-random-node.md)
   * [398. Random Pick Index](20.-reservoir-sampling/398.-random-pick-index.md)
+* [Reference](reference/README.md)
+  * [Writing Mathematic Fomulars in Markdown](reference/writing-mathematic-fomulars-in-markdown.md)
 
