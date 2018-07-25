@@ -42,6 +42,7 @@
   * [49. Group Anagrams](8.hash-table/49.-group-anagrams.md)
   * [149. Max Points on a Line](8.hash-table/149.-max-points-on-a-line.md)
   * [438. Find All Anagrams in a String](8.hash-table/438.-find-all-anagrams-in-a-string.md)
+  * [710. Random Pick with Blacklist](8.hash-table/710.-random-pick-with-blacklist.md)
   * [734. Sentence Similarity](8.hash-table/734.-sentence-similarity.md)
 * [10.DP](dp/README.md)
   * [139. Word Break](dp/139.-word-break.md)
