@@ -55,6 +55,8 @@
   * [361. Bomb Enemy](dp/361.-bomb-enemy.md)
   * [418. Sentence Screen Fitting](dp/418.-sentence-screen-fitting.md)
   * [471. Encode String with Shortest Length](dp/471.-encode-string-with-shortest-length.md)
+  * [494. Target Sum](dp/494.-target-sum.md)
+  * [516. Longest Palindromic Subsequence](dp/516.-longest-palindromic-subsequence.md)
   * [562. Longest Line of Consecutive One in Matrix](dp/562.-longest-line-of-consecutive-one-in-matrix.md)
   * [568. Maximum Vacation Days](dp/568.-maximum-vacation-days.md)
   * [740. Delete And Earn](dp/740.-delete-and-earn.md)
