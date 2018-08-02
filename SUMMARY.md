@@ -71,6 +71,7 @@
   * [35. Search Insert Position](11.binary-search/35.-search-insert-position.md)
   * [69. Sqrt\(x\)](11.binary-search/69.-sqrt-x.md)
   * [double sqrt\(x\)](11.binary-search/double-sqrt-x.md)
+  * [300. Longest Increasing Subsequence](11.binary-search/300.-longest-increasing-subsequence.md)
   * [392. Is Subsequence](11.binary-search/392.-is-subsequence.md)
   * [875. Koko Eating Bananas](11.binary-search/875.-koko-eating-bananas.md)
 * [13.Graph](12.graph/README.md)
