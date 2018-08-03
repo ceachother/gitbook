@@ -53,6 +53,7 @@
   * [329. Longest Increasing Path in a Matrix](dp/329.-longest-increasing-path-in-a-matrix.md)
   * [337. House Robber III](dp/337.-house-robber-iii.md)
   * [361. Bomb Enemy](dp/361.-bomb-enemy.md)
+  * [416. Partition Equal Subset Sum](dp/416.-partition-equal-subset-sum.md)
   * [418. Sentence Screen Fitting](dp/418.-sentence-screen-fitting.md)
   * [471. Encode String with Shortest Length](dp/471.-encode-string-with-shortest-length.md)
   * [474. Ones and Zeroes](dp/474.-ones-and-zeroes.md)
