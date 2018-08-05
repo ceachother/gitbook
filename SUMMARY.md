@@ -45,6 +45,7 @@
   * [710. Random Pick with Blacklist](8.hash-table/710.-random-pick-with-blacklist.md)
   * [734. Sentence Similarity](8.hash-table/734.-sentence-similarity.md)
 * [10.DP](dp/README.md)
+  * [96. Unique Binary Search Trees](dp/96.-unique-binary-search-trees.md)
   * [139. Word Break](dp/139.-word-break.md)
   * [276. Paint Fence](dp/276.-paint-fence.md)
   * [279. Perfect Squares](dp/279.-perfect-squares.md)
