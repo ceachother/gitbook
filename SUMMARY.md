@@ -64,6 +64,7 @@
   * [562. Longest Line of Consecutive One in Matrix](dp/562.-longest-line-of-consecutive-one-in-matrix.md)
   * [568. Maximum Vacation Days](dp/568.-maximum-vacation-days.md)
   * [650. 2 Keys Keyboard](dp/650.-2-keys-keyboard.md)
+  * [673. Number of Longest Increasing Subsequence](dp/673.-number-of-longest-increasing-subsequence.md)
   * [740. Delete And Earn](dp/740.-delete-and-earn.md)
   * [746. Min Cost Climbing Stairs](dp/746.-min-cost-climbing-stairs.md)
 * [11.Union Find](10.union-find/README.md)
