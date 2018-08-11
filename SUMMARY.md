@@ -28,6 +28,7 @@
 * [5.HashSet](4.hashset/README.md)
   * [3. Longest Substring Without Repeating Characters](4.hashset/3.-longest-substring-without-repeating-characters.md)
   * [36. Valid Sudoku](4.hashset/36.-valid-sudoku.md)
+  * [202. Happy Number](4.hashset/202.-happy-number.md)
 * [6.Linked List](6.linked-list/README.md)
   * [138. Copy List with Random Pointer](6.linked-list/138.-copy-list-with-random-pointer.md)
   * [146. LRU Cache](6.linked-list/146.-lru-cache.md)
