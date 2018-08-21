@@ -71,6 +71,7 @@
   * [673. Number of Longest Increasing Subsequence](dp/673.-number-of-longest-increasing-subsequence.md)
   * [650. 2 Keys Keyboard](dp/650.-2-keys-keyboard.md)
   * [740. Delete And Earn](dp/740.-delete-and-earn.md)
+  * [730. Count Different Palindromic Subsequences](dp/730.-count-different-palindromic-subsequences.md)
   * [746. Min Cost Climbing Stairs](dp/746.-min-cost-climbing-stairs.md)
 * [11.Union Find](10.union-find/README.md)
   * [261. Graph Valid Tree](10.union-find/261.-graph-valid-tree.md)
