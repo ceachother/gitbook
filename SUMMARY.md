@@ -103,6 +103,7 @@
 * [18.Bit manipulation](17.bit-manipulation/README.md)
   * [231. Power of Two](17.bit-manipulation/231.-power-of-two.md)
   * [318. Maximum Product of Word Lengths](17.bit-manipulation/318.-maximum-product-of-word-lengths.md)
+  * [260. Single Number III](17.bit-manipulation/260.-single-number-iii.md)
 * [19.Design](18.-design/README.md)
   * [284. Peeking Iterator](18.-design/284.-peeking-iterator.md)
   * [380. Insert Delete GetRandom O\(1\)](18.-design/380.-insert-delete-getrandom-o-1.md)
