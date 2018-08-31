@@ -98,6 +98,7 @@
 * [16.Tree](15.trie/README.md)
   * [315. Count of Smaller Numbers After Self](15.trie/315.-count-of-smaller-numbers-after-self.md)
   * [425. Word Squares](15.trie/425.-word-squares.md)
+  * [429. N-ary Tree Level Order Traversal](15.trie/429.-n-ary-tree-level-order-traversal.md)
 * [17.Divide and Conque](5.divide-and-conque/README.md)
   * [23. Merge k Sorted List](5.divide-and-conque/23.-merge-k-sorted-list.md)
 * [18.Bit manipulation](17.bit-manipulation/README.md)
