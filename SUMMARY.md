@@ -73,6 +73,7 @@
   * [730. Count Different Palindromic Subsequences](dp/730.-count-different-palindromic-subsequences.md)
   * [740. Delete And Earn](dp/740.-delete-and-earn.md)
   * [746. Min Cost Climbing Stairs](dp/746.-min-cost-climbing-stairs.md)
+  * [472. Concatenated Words](dp/472.-concatenated-words.md)
 * [11.Union Find](10.union-find/README.md)
   * [261. Graph Valid Tree](10.union-find/261.-graph-valid-tree.md)
   * [305. Number of Islands II](10.union-find/305.-number-of-islands-ii.md)
