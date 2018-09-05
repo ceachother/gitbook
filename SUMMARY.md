@@ -90,6 +90,7 @@
 * [14.Queue](13.queue/README.md)
   * [200. Number of Islands](13.queue/200.-number-of-islands.md)
   * [253. Meeting Rooms II](13.queue/253.-meeting-rooms-ii.md)
+  * [347. Top K Frequent Elements](13.queue/347.-top-k-frequent-elements.md)
 * [15.Sort](14.sort/README.md)
   * [252. Meeting Rooms](14.sort/252.-meeting-rooms.md)
   * [274. H-Index](14.sort/274.-h-index.md)
