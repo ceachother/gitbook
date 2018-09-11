@@ -25,6 +25,7 @@
   * [42. Trapping Rain Water](3.stack/42.-trapping-rain-water.md)
   * [84. Largest Rectangle in Histogram](3.stack/largest-rectangle-in-histogram.md)
   * [173. Binary Search Tree Iterator](3.stack/173.-binary-search-tree-iterator.md)
+  * [496. Next Greater Element I](3.stack/496.-next-greater-element-i.md)
 * [5.HashSet](4.hashset/README.md)
   * [3. Longest Substring Without Repeating Characters](4.hashset/3.-longest-substring-without-repeating-characters.md)
   * [36. Valid Sudoku](4.hashset/36.-valid-sudoku.md)
