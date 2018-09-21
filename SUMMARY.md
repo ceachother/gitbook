@@ -122,6 +122,7 @@
   * [398. Random Pick Index](20.-reservoir-sampling/398.-random-pick-index.md)
 * [21. Greedy](21.-greedy/README.md)
   * [861. Score After Flipping Matrix](21.-greedy/861.-score-after-flipping-matrix.md)
+  * [738. Monotone Increasing Digits](21.-greedy/738.-monotone-increasing-digits.md)
 * [22. Math](22.-math/README.md)
   * [812. Largest Triangle Area](22.-math/812.-largest-triangle-area.md)
 * [Reference](reference/README.md)
