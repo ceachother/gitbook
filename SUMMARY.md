@@ -6,6 +6,7 @@
   * [16. 3Sum Closest](1.-2-sum-3-sum/16.-3sum-closest.md)
   * [259. 3Sum Smaller](1.-2-sum-3-sum/259.-3sum-smaller.md)
   * [167. Two Sum II - Input array is sorted](1.-2-sum-3-sum/167.-two-sum-ii-input-array-is-sorted.md)
+  * [18. 4Sum](1.-2-sum-3-sum/18.-4sum.md)
 * [2.BFS](dfs/README.md)
   * [117. Populating Next Right Pointers in Each Node II](dfs/117.-populating-next-right-pointers-in-each-node-ii.md)
   * [207. Course Schedule](dfs/207.-course-schedule.md)
