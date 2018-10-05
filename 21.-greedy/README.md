@@ -1,2 +1,2 @@
-# 21. Greedy
+# 22.Greedy
 

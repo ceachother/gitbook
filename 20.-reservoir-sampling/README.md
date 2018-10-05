@@ -1,4 +1,4 @@
-# 20. Reservoir Sampling
+# 21.Reservoir Sampling
 
 ## Proof
 
