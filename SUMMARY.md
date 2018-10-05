@@ -128,6 +128,8 @@
   * [738. Monotone Increasing Digits](21.-greedy/738.-monotone-increasing-digits.md)
 * [22. Math](22.-math/README.md)
   * [812. Largest Triangle Area](22.-math/812.-largest-triangle-area.md)
+* [23. Trie](23.-trie/README.md)
+  * [720. Longest Word in Dictionary](23.-trie/720.-longest-word-in-dictionary.md)
 * [Reference](reference/README.md)
   * [Writing Mathematic Fomulars in Markdown](reference/writing-mathematic-fomulars-in-markdown.md)
 
