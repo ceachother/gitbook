@@ -45,6 +45,7 @@
   * [289. Game of Life](8.array/289.-game-of-life.md)
   * [442. Find All Duplicates in an Array](8.array/442.-find-all-duplicates-in-an-array.md)
   * [888. Fair Candy Swap](8.array/888.-fair-candy-swap.md)
+  * [674. Longest Continuous Increasing Subsequence](8.array/674.-longest-continuous-increasing-subsequence.md)
 * [9.Hash Table](8.hash-table/README.md)
   * [49. Group Anagrams](8.hash-table/49.-group-anagrams.md)
   * [149. Max Points on a Line](8.hash-table/149.-max-points-on-a-line.md)
