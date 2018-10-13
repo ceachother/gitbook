@@ -1,6 +1,6 @@
 # 模板
 
-{% embed data="{\"url\":\"https://blog.csdn.net/han\_\_\_\_shuai/article/details/75252245\",\"type\":\"link\",\"title\":\"一起lintcode ------- 二分查找看这篇就够了 - CSDN博客\",\"description\":\"九章算法二分查找部分的ladder，前后刷了3,4遍（因为靠前，所以它被刷的次数最多了。）下面也该总结下了。本帖主要包括两方面的内容，一就是二分查找模板，二就是如何结合具体题型来使用二分查找模板。 一.从一个模板谈二分查找 这个模板是上九章算法课程中学到，对于解决问题实战性很强。模板如下： 例如 lintcode 中的 Classical Binary Search def findPos\",\"icon\":{\"type\":\"icon\",\"url\":\"https://csdnimg.cn/public/favicon.ico\",\"aspectRatio\":0}}" %}
+{% embed url="https://blog.csdn.net/han\_\_\_\_shuai/article/details/75252245" %}
 
 九章算法二分查找部分的ladder，前后刷了3,4遍（因为靠前，所以它被刷的次数最多了。）下面也该总结下了。本帖主要包括两方面的内容，一就是二分查找模板，二就是如何结合具体题型来使用二分查找模板。
 

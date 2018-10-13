@@ -1,6 +1,6 @@
 # Tabulation vs Memoizatation
 
-{% embed data="{\"url\":\"https://www.geeksforgeeks.org/tabulation-vs-memoizatation/\",\"type\":\"link\",\"title\":\"Tabulation vs Memoizatation - GeeksforGeeks\",\"description\":\"Prerequisite – Dynamic Programming, How to solve Dynamic Programming problems? There are following two different ways to store the values so that the values of… Read More »\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.geeksforgeeks.org/wp-content/uploads/gfg\_200X200.png\",\"width\":200,\"height\":200,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.geeksforgeeks.org/wp-content/uploads/Tabulation-vs-Memoization-1.png\",\"width\":771,\"height\":399,\"aspectRatio\":0.5175097276264592}}" %}
+{% embed url="https://www.geeksforgeeks.org/tabulation-vs-memoizatation/" %}
 
 There are following two different ways to store the values so that the values of a problem can be reused. Here, will discuss two patterns of solving DP problem:
 

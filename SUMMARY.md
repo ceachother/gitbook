@@ -53,6 +53,7 @@
   * [710. Random Pick with Blacklist](8.hash-table/710.-random-pick-with-blacklist.md)
   * [734. Sentence Similarity](8.hash-table/734.-sentence-similarity.md)
   * [525. Contiguous Array](8.hash-table/525.-contiguous-array.md)
+  * [532. K-diff Pairs in an Array](8.hash-table/532.-k-diff-pairs-in-an-array.md)
 * [10.DP](dp/README.md)
   * [Tabulation vs Memoizatation](dp/tabulation-vs-memoizatation.md)
   * [96. Unique Binary Search Trees](dp/96.-unique-binary-search-trees.md)
