@@ -41,6 +41,7 @@
   * [340. Longest Substring with At Most K Distinct Characters](7.string/340.-longest-substring-with-at-most-k-distinct-characters.md)
   * [482. License Key Formatting](7.string/482.-license-key-formatting.md)
   * [683. K Empty Slots](7.string/683.-k-empty-slots.md)
+  * [859. Buddy Strings](7.string/859.-buddy-strings.md)
 * [8.Array](8.array/README.md)
   * [289. Game of Life](8.array/289.-game-of-life.md)
   * [442. Find All Duplicates in an Array](8.array/442.-find-all-duplicates-in-an-array.md)
