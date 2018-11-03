@@ -98,6 +98,7 @@
   * [300. Longest Increasing Subsequence](11.binary-search/300.-longest-increasing-subsequence.md)
   * [392. Is Subsequence](11.binary-search/392.-is-subsequence.md)
   * [875. Koko Eating Bananas](11.binary-search/875.-koko-eating-bananas.md)
+  * [34. Find First and Last Position of Element in Sorted Array](11.binary-search/34.-find-first-and-last-position-of-element-in-sorted-array.md)
 * [13.Graph](12.graph/README.md)
   * [127. Word Ladder](12.graph/127.-word-ladder.md)
 * [14.Queue](13.queue/README.md)
