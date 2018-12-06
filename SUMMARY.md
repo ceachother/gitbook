@@ -86,6 +86,7 @@
   * [472. Concatenated Words](dp/472.-concatenated-words.md)
   * [600. Non-negative Integers without Consecutive Ones](dp/600.-non-negative-integers-without-consecutive-ones.md)
   * [552. Student Attendance Record II](dp/552.-student-attendance-record-ii.md)
+  * [85. Maximal Rectangle](dp/85.-maximal-rectangle.md)
 * [11.Union Find](10.union-find/README.md)
   * [261. Graph Valid Tree](10.union-find/261.-graph-valid-tree.md)
   * [305. Number of Islands II](10.union-find/305.-number-of-islands-ii.md)
