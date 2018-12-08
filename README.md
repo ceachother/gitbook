@@ -1,4 +1,4 @@
 # Algorithm
 
-This is the note of algorithm when solving problems on leetcode.
+1This is the note of algorithm when solving problems on leetcode.
 
