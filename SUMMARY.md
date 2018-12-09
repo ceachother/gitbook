@@ -36,6 +36,7 @@
 * [6.Linked List](6.linked-list/README.md)
   * [138. Copy List with Random Pointer](6.linked-list/138.-copy-list-with-random-pointer.md)
   * [146. LRU Cache](6.linked-list/146.-lru-cache.md)
+  * [142. Linked List Cycle II](6.linked-list/142.-linked-list-cycle-ii.md)
 * [7.String](7.string/README.md)
   * [Permutation](7.string/permutation.md)
   * [76. Minimum Window Substring](7.string/76.-minimum-window-substring.md)
