@@ -12,6 +12,7 @@
   * [207. Course Schedule](dfs/207.-course-schedule.md)
   * [675. Cut Off Trees for Golf Event](dfs/675.-cut-off-trees-for-golf-event.md)
   * [787. Cheapest Flights Within K Stops](dfs/787.-cheapest-flights-within-k-stops.md)
+  * [269. Alien Dictionary](dfs/269.-alien-dictionary.md)
 * [3.DFS](3.dfs/README.md)
   * [22. Generate Parentheses](3.dfs/22.-generate-parentheses.md)
   * [37. Sudoku Solver](3.dfs/37.-sudoku-solver.md)
