@@ -52,6 +52,7 @@
   * [674. Longest Continuous Increasing Subsequence](8.array/674.-longest-continuous-increasing-subsequence.md)
   * [189. Rotate Array](8.array/189.-rotate-array.md)
   * [904. Fruit Into Baskets](8.array/904.-fruit-into-baskets.md)
+  * [Lintcode 645. Find the Celebrity](8.array/lintcode-645.-find-the-celebrity.md)
 * [9.Hash Table](8.hash-table/README.md)
   * [49. Group Anagrams](8.hash-table/49.-group-anagrams.md)
   * [149. Max Points on a Line](8.hash-table/149.-max-points-on-a-line.md)
