@@ -144,6 +144,8 @@
   * [738. Monotone Increasing Digits](21.-greedy/738.-monotone-increasing-digits.md)
 * [23.Math](22.-math/README.md)
   * [812. Largest Triangle Area](22.-math/812.-largest-triangle-area.md)
+* [24. Heap](24.-heap/README.md)
+  * [295. Find Median from Data Stream](24.-heap/295.-find-median-from-data-stream.md)
 * [Reference](reference/README.md)
   * [Writing Mathematic Fomulars in Markdown](reference/writing-mathematic-fomulars-in-markdown.md)
 
