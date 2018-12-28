@@ -143,6 +143,7 @@
 * [22.Greedy](21.-greedy/README.md)
   * [861. Score After Flipping Matrix](21.-greedy/861.-score-after-flipping-matrix.md)
   * [738. Monotone Increasing Digits](21.-greedy/738.-monotone-increasing-digits.md)
+  * [Pramp: Award Budget Cuts](21.-greedy/pramp-award-budget-cuts.md)
 * [23.Math](22.-math/README.md)
   * [812. Largest Triangle Area](22.-math/812.-largest-triangle-area.md)
 * [24. Heap](24.-heap/README.md)
