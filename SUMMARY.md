@@ -108,6 +108,7 @@
   * [81. Search in Rotated Sorted Array II](11.binary-search/81.-search-in-rotated-sorted-array-ii.md)
 * [13.Graph](12.graph/README.md)
   * [127. Word Ladder](12.graph/127.-word-ladder.md)
+  * [743. Network Delay Time](12.graph/743.-network-delay-time.md)
 * [14.Queue](13.queue/README.md)
   * [200. Number of Islands](13.queue/200.-number-of-islands.md)
   * [253. Meeting Rooms II](13.queue/253.-meeting-rooms-ii.md)
