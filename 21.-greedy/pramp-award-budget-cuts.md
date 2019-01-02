@@ -24,16 +24,14 @@ It's very hard to think in this way during interview!!!!!!
             return 0
 
         length = len(grantsArray)
-        prefixSum = 0
 
         grantsArray.sort()
         for index in range(length):
             current = grantsArray[index]
-            available = newBudget - prefixSum
             numbersLeft = length - index
-            if current * numbersLeft > available:
-                return available / numbersLeft
-            prefixSum += current
+            if current > newBudget / numbersLeft:
+                return newBudget / numbersLeft
+            newBudget -= current
 
         return grantsArray[length - 1]
 ```
