@@ -16,8 +16,6 @@
 
 ## Solution: Greedy
 
-It's very hard to think in this way during interview!!!!!!
-
 ```python
     def find_grants_cap(self, grantsArray, newBudget):
         if grantsArray is None or newBudget <= 0:
@@ -36,7 +34,7 @@ It's very hard to think in this way during interview!!!!!!
         return grantsArray[length - 1]
 ```
 
-Or the way from Pramp: sorting in descending order:
+Or the way from Pramp: sorting in descending order. It's very hard to think in this way during interview!!!!!!
 
 ```python
     def find_grants_cap(self, grantsArray, newBudget):
